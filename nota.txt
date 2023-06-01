@@ -1,5 +1,6 @@
 buenas tardes mi nombre es rene
 me choca que boostrap quire modificar un
-archivo aunque no sea html
+archivo aunque no sea html, salu2
+ayer me comi una salchipapa
 
 
