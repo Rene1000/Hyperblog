@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    color: black;
+    background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
     color: orange;
     font-size: 16px;
@@ -8,13 +10,20 @@ body{
 }
 
 #cabecera{
-    background-color: blue;
+    background-color: blue url("../imagenes/descarga.jpg") 10px 10px;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white; 
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bold;
 }
+
+#cabecera #logo{
+    width: 80px;
+    vertical-align: middle;
+}
+
+
 
 #cabecera #tagline{
     padding: 0 0 0 1em;
@@ -34,4 +43,9 @@ body{
 
 #container h1 {
     font-size: 18px;
+}
+
+#post{
+    background: white;
+    padding: 1em;
 }
