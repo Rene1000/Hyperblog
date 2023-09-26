@@ -35,3 +35,8 @@ body{
 #container h1 {
     font-size: 18px;
 }
+footer{
+    background: purple;
+    padding-top:50px ;
+    margin-top: 383px;
+}
