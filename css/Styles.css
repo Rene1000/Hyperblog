@@ -49,3 +49,8 @@ body{
     background: white;
     padding: 1em;
 }
+footer{
+    background: purple;
+    padding-top:50px ;
+    margin-top: 383px;
+}
