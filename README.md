@@ -8,6 +8,5 @@ Un blog del curso de git y github de Platzi
 - Qué es github y sus funcionalidades
 - Flujo de trabajo con otros colaboradores
 - Curso hecho por mi
-- Curso hecho por mi
 - Este curso lo pueden hacer usuarios de linux, mac y windows 
 - disponible para todas las edades
